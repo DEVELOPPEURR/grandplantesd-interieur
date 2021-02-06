@@ -118,33 +118,28 @@ font-size: x-large;
     background: #0000009d;
     
 }
-.td1 {
-    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/ficus-benjamina-n15.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 625px 500px;
-}
+
 .td2 {
-    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/s-l400.jpg);
+    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/bambous.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 625px 500px;
+    background-size: 1250px 500px;
 }
 #div1:hover {
     background: #0000009d;
 }
   .td3 {
-    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/c700x420.jpg);
+    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/arbres_fruitiers_colonnes.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 625px 300px;
+    background-size: 650px 300px;
   }
   
   #div2:hover {
     background: #0000009d;
   }
 .td4 {
-    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/5f5ba0cd947853b654cef3840dd609b6.jpg);
+    background-image: url(https://raw.githack.com/DEVELOPPEURR/grandplantesd-interieur/main/R5f6cdfdee4fb15de88ce707764bbd648.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 625px 300px;
