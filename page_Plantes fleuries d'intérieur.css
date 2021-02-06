@@ -3,7 +3,8 @@
     margin-left: -23px;
     margin-top: -10px;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(245, 234, 234);
+    
   }
   header{
     background-color: rgb(238, 237, 225);
@@ -84,13 +85,7 @@
    background-color:  rgb(238, 237, 225);
    height: 60px;
 }
-.AA {
-  width: 1230px;
-  height: 1200px;
-  margin-left: 50px;
-  margin-bottom: 80px;
-  margin-top: 30px;
-}
+
 .aa {
 font-size: x-large;
 }
@@ -99,36 +94,45 @@ font-size: x-large;
 }
 
 img#img1 {
-  width: 650px;
-  height: 400px;
+  width: 450px;
+  height: 350px;
   margin-top: 0px;
   margin-left: 0px;
   float: left;
   border-radius: 24px;
   padding: 0 15px 0 0;
 }
+.AA {
+  width: 1230px;
+  height: 500px;
+  margin-left: 40px;
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
 .AAA {
   width: 1230px;
-  height: 450px;
+  height: 500px;
+  margin-left: 40px;
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
+
+.A1 {
+  width: 1230px;
+  height: 500px;
+  margin-left: 40px;
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
+
+.A2 {
+  width: 1230px;
+  height: 350px;
   margin-left: 50px;
   margin-bottom: 80px;
   margin-top: 30px;
 }
-img#img2 {
-  width: 650px;
-  height: 400px;
-  margin-top: 0px;
-  margin-left: 0px;
-  float: left;
-  border-radius: 24px;
-  padding: 0 15px 0 0;
+h3 {
+  margin-left: 50px;
 }
-img#img3 {
-  width: 325px;
-  height: 300px;
-  margin-top: 0px;
-  margin-left: 0px;
-  float: right;
-  border-radius: 25px;
-  padding: 0 15px 0 0;
-}
+
